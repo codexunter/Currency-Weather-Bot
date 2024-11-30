@@ -1,4 +1,4 @@
-# Telegram bot for knowing weather conditions and converting currencies.
+# Telegram bot for viewing weather conditions and converting currencies.
 
 This app can provide you information about ambient temperature and humidity in your city.
 Also, it can convert certain pairs of currencies
