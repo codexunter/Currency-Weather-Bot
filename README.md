@@ -1,3 +1,3 @@
-# Telegram bot for viewing weather and converting currencies.
+# Telegram bot for weather and currency conversion
 
-https://coder1382.github.io/Currecncy-and-Weather-TeleBot/
+[Follow the link to watch](https://coder1382.github.io/Currecncy-and-Weather-TeleBot/)
